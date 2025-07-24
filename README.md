@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I’m NDAYISABA KAMARIZA Belie
 
-<!--
-**NKBelie/NKBelie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- I’m passionate about [your interests]
+- I’m currently working on [your current project]
+- I’m looking to collaborate on [interesting topics]
+- Ask me about [areas of expertise]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Find Me Around the Web
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- [Twitter](https://twitter.com/YOUR-TWITTER)
+- [Blog](https://YOUR-BLOG.com)
+
+## 🛠️ Skills
+- Programming Languages: [list languages]
+- Frameworks: [list frameworks]
+- Tools: [list tools]
+
+## 📈 GitHub Stats
+![NKBelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=NKBelie&show_icons=true&theme=radical)
+
+---
+
+*Thanks for visiting!*
