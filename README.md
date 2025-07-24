@@ -1,4 +1,4 @@
-<center> # Hi 👋, I’m NDAYISABA KAMARIZA Belie</center>
+# <center> Hi 👋, I’m NDAYISABA KAMARIZA Belie</center>
 
 Welcome to my GitHub profile!
 
