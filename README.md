@@ -9,12 +9,12 @@ Welcome to my GitHub profile!
 - Ask me about [areas of expertise]
 
 ## 🌐 Find Me Around the Web
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-- [Twitter](https://twitter.com/YOUR-TWITTER)
-- [Blog](https://YOUR-BLOG.com)
+  [LinkedIn](https://www.linkedin.com/in/ndayisaba-kamariza-belie-19a0a9330/)
+  [Instagram](https://www.instagram.com/__.belie__/)
 
 ## 🛠️ Skills
-- Programming Languages: [list languages]
+   **Programming Languages:** 
+   - 
 - Frameworks: [list frameworks]
 - Tools: [list tools]
 
