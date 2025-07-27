@@ -1,6 +1,6 @@
  # <p align= "Center">Hi 👋, I’m NDAYISABA KAMARIZA Belie </p> 
 
-**<p>Connect with Me:</p>**
+# <p>Connect with Me:</p>
 <p>
   <a href="https://www.linkedin.com/in/ndayisaba-kamariza-belie-19a0a9330/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-**<p>Language and Tools</p>**
+# <p>Language and Tools</p>
 <p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
 </p>
 
-**<P font-size="30">Skills</p>**
+# <P>Skills</p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKBelie&layout=compact)
 ![NKBelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=NKBelie&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NKBelie)
