@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
   <a href="https://facebook.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/__.belie__/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram"/>
   </a>
   <a href="https://github.com/NKBelie" target="_blank">
