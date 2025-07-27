@@ -1,6 +1,6 @@
  # <p align= "Center">Hi 👋, I’m NDAYISABA KAMARIZA Belie </p> 
 
-## Connect with Me:
+**<p>Connect with Me:</p>**
 <p>
   <a href="https://www.linkedin.com/in/ndayisaba-kamariza-belie-19a0a9330/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
