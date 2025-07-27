@@ -19,7 +19,7 @@
   </a>
 </p>
 
-## Language and Tools
+**<p>Language and Tools</p>**
 <p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
