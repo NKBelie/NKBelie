@@ -13,8 +13,7 @@ Welcome to my GitHub profile!
   [Instagram](https://www.instagram.com/__.belie__/)
 
 ## 🛠️ Skills
-   **Programming Languages:** 
-   - 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKBelie&layout=compact)
 - Frameworks: [list frameworks]
 - Tools: [list tools]
 
