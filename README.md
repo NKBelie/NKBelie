@@ -40,8 +40,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKBelie&layout=compact)
 ![NKBelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=NKBelie&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NKBelie)
-- Frameworks: [list frameworks]
-- Tools: [list tools]
 
-
-*Thanks for visiting!*
