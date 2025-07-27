@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
 </p>
 
-## Skills
+**<P font-size="10">Skills</p>**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKBelie&layout=compact)
 ![NKBelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=NKBelie&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NKBelie)
