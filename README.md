@@ -14,6 +14,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKBelie&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NKBelie)
 - Frameworks: [list frameworks]
 - Tools: [list tools]
 
