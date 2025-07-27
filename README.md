@@ -1,6 +1,4 @@
-  # Hi 👋, I’m NDAYISABA KAMARIZA Belie
-
-Welcome to my GitHub profile!
+ # <p align= "Center">Hi 👋, I’m NDAYISABA KAMARIZA Belie </p> 
 
 ## Connect with Me:
 <p>
