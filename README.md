@@ -5,15 +5,6 @@
   <a href="https://www.linkedin.com/in/ndayisaba-kamariza-belie-19a0a9330/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter"/>
-  </a>
-  <a href="https://facebook.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/__.belie__/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram"/>
-  </a>
   <a href="https://github.com/NKBelie" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
   </a>
