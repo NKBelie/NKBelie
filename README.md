@@ -31,5 +31,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKBelie&layout=compact)
 ![NKBelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=NKBelie&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NKBelie)
-<img align="center" src="https://camo.githubusercontent.com/bd5558f2bc262541857a1aa10b2d80740dfb88816f8f6564ff8e4d4fb3c2ef10/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d657269636d616e697261677568612673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="ericmaniraguha" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ericmaniraguha&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
+<img align="center" src="https://camo.githubusercontent.com/bd5558f2bc262541857a1aa10b2d80740dfb88816f8f6564ff8e4d4fb3c2ef10/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d657269636d616e697261677568612673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="NKBelie" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ericmaniraguha&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
 
