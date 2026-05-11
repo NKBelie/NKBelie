@@ -50,14 +50,11 @@
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=black&labelColor=black&label=Top%20Languages&query=%5B0%5D.name&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNKBelie%2Frepos%3Ftype%3Downer&logo=github&style=flat" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKBelie&layout=compact&theme=radical" alt="Top Languages"/>
   <br/>
-  <img src="https://img.shields.io/github/followers/NKBelie?style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/NKBelie?style=social" alt="GitHub Stars"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NKBelie&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br/>
-  <a href="https://github.com/NKBelie">
-    <img src="https://img.shields.io/badge/Profile-Visit%20My%20GitHub-blue?style=flat&logo=github" alt="Visit GitHub"/>
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=NKBelie&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
