@@ -7,7 +7,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ndayisaba-kamariza-belie-19a0a9330/" target="_blank">
@@ -20,7 +20,7 @@
 
 ---
 
-## 💻 Languages & Technologies
+## Languages & Technologies
 
 <div align="center">
   <h4>Frontend & Web Development</h4>
@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKBelie&layout=compact&theme=radical" alt="Top Languages"/>
@@ -59,18 +59,18 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 *Add your featured projects here with brief descriptions*
 
 ---
 
-## 📚 About Me
+## About Me
 
-- 🎓 Passionate about learning and building innovative solutions
-- 💡 Interested in full-stack development and problem-solving
-- 🌱 Always exploring new technologies and best practices
-- 🤝 Open to collaboration and contributing to open-source projects
+-  Passionate about learning and building innovative solutions
+-  Interested in full-stack development and problem-solving
+-  Always exploring new technologies and best practices
+-  Open to collaboration and contributing to open-source projects
 
 ---
 
