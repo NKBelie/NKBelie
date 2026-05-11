@@ -61,32 +61,32 @@
 
 ## Featured Projects
 
-### 🏥 [MamaCare - Maternal Health Care Management System](https://github.com/NKBelie/Midsem_27174_Grp-C_Tuesday)
+### [MamaCare - Maternal Health Care Management System](https://github.com/NKBelie/Midsem_27174_Grp-C_Tuesday)
 A web-based system designed to help pregnant women and healthcare providers manage maternal services online. Streamlines maternal health tracking and appointment management.
 - **Technologies:** Java, Web Development
 - **Status:** Active
 
-### 🎓 [X_Wisdom University Management System](https://github.com/NKBelie/Thurs_27174_X_Wisdom_University_MS)
+### [X_Wisdom University Management System](https://github.com/NKBelie/Thurs_27174_X_Wisdom_University_MS)
 A centralized Oracle database system for X_Wisdom University that integrates and automates core academic and administrative processes including student enrollment, course registration, exams, and fees management.
 - **Technologies:** PL/SQL, Oracle Database
 - **Features:** Student enrollment, course registration, exam management, fee processing
 
-### 🏫 [TVET School Management System](https://github.com/NKBelie/TVET-School-Management-System)
+### [TVET School Management System](https://github.com/NKBelie/TVET-School-Management-System)
 A comprehensive web-based application designed to automate administrative and operational tasks in Technical and Vocational Education and Training (TVET) institutions.
 - **Technologies:** PHP, Web Development
 - **Status:** Active
 
-### 🌍 [Explore Kigali](https://github.com/NKBelie/Explore-Kigali)
+### [Explore Kigali](https://github.com/NKBelie/Explore-Kigali)
 A modern web application showcasing Kigali's attractions, culture, and tourism. Features a responsive design with beautiful UI/UX.
 - **Technologies:** HTML, CSS, JavaScript
 - **Live Demo:** [https://explore-kigali-gold.vercel.app](https://explore-kigali-gold.vercel.app)
 
-### 📱 [Responsive Web Design with TailwindCSS](https://github.com/NKBelie/Responsive_Web_TailwindCSS)
+### [Responsive Web Design with TailwindCSS](https://github.com/NKBelie/Responsive_Web_TailwindCSS)
 A showcase of responsive web design techniques using TailwindCSS. Demonstrates modern CSS practices and mobile-first design principles.
 - **Technologies:** HTML, TailwindCSS
 - **Live Demo:** [https://responsive-web-tailwind-css.vercel.app](https://responsive-web-tailwind-css.vercel.app)
 
-### 📊 [Student Performance Data Analysis](https://github.com/NKBelie/Student_Performance-Data_Analysis-and-PowerBI)
+### [Student Performance Data Analysis](https://github.com/NKBelie/Student_Performance-Data_Analysis-and-PowerBI)
 Comprehensive data analysis and visualization project analyzing student performance from Portuguese secondary schools. Includes demographic, social, and school-related features with Power BI dashboards.
 - **Technologies:** Python, Jupyter Notebook, Power BI
 - **Features:** Data analysis, visualization, statistical insights
