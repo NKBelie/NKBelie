@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <h1>Hi 👋, I'm NDAYISABA KAMARIZA Belie</h1>
   <p>
     <strong>Full Stack Developer | Problem Solver | Tech Enthusiast</strong>
@@ -22,7 +22,7 @@
 
 ## Languages & Technologies
 
-<div align="center">
+<div align="">
   <h4>Frontend & Web Development</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
@@ -49,7 +49,7 @@
 
 ## GitHub Statistics
 
-<div align="center">
+<div align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKBelie&layout=compact&theme=radical" alt="Top Languages"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=NKBelie&show_icons=true&theme=radical" alt="GitHub Stats"/>
