@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Hi 👋, I'm NDAYISABA KAMARIZA Belie</h1>
   <p>
     <strong>Full Stack Developer | Problem Solver | Tech Enthusiast</strong>
