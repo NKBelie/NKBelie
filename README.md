@@ -22,7 +22,7 @@
 
 ## Languages & Technologies
 
-<div align="">
+<div align="center">
   <h4>Frontend & Web Development</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
@@ -51,9 +51,7 @@
 
 <div align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKBelie&layout=compact&theme=radical" alt="Top Languages"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=NKBelie&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=NKBelie&theme=radical" alt="GitHub Streak"/>
 </div>
 
